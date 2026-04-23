@@ -1,16 +1,10 @@
-# VoiceIQ-Multimodal-Intelligence
-An end-to-end multimodal AI pipeline that converts raw audio into structured intelligence reports and AI-voiced summaries using Whisper, BART, and SpeechT5
-
-# 🎙️ VoiceIQ-AI: Smart Lecture & Meeting Assistant
-
+# 🎙️Project Name: VoiceIQ-AI Smart Lecture & Meeting Assistant
 **Course: Big Data Analytics and Applications — CS 5542 Quiz Challenge 2**
 **Author: Rehan Ali**
 **University: University of Missouri — Kansas City (UMKC)**
 
-> 📌 **GITHUB:** https://github.com/Rehan-rahim/VoiceIQ-AI
+> 📌 **GITHUB:** https://github.com/Rehan-rahim/VoiceIQ-Multimodal-Intelligence
 > 🎬 **DEMO VIDEO:** [YouTube / Google Drive Link]
-
----
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Model: Whisper](https://img.shields.io/badge/Model-OpenAI%20Whisper%20Small-orange)](https://huggingface.co/openai/whisper-small)
