@@ -4,7 +4,7 @@
 **University: University of Missouri — Kansas City (UMKC)**
 
 > 📌 **GITHUB:** https://github.com/Rehan-rahim/VoiceIQ-Multimodal-Intelligence
-> 🎬 **DEMO VIDEO:** [YouTube / Google Drive Link]
+> 🎬 **DEMO VIDEO:** https://drive.google.com/file/d/16-0GDuqW-Cq9X7xyQRtD5hDq9kpXUc7D/view?usp=sharing
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Model: Whisper](https://img.shields.io/badge/Model-OpenAI%20Whisper%20Small-orange)](https://huggingface.co/openai/whisper-small)
