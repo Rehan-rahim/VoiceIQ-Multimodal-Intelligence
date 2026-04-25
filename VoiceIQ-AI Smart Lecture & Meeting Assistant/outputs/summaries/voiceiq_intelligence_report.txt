@@ -1,0 +1,14 @@
+VOICE-IQ: SMART LECTURE & MEETING ASSISTANT
+=============================================
+RAW TRANSCRIPT:  Mr. Quilter is the apostle of the Middle Classes, and we are glad to welcome his gospel.
+
+EXECUTIVE SUMMARY:
+summarize and extract key details:  Mr. Quilter is the apostle of the Middle Classes, and we are glad to welcome his gospel.  We are happy to welcome the gospel of Jesus Christ, the Christ of the Latter Day Saints.
+
+KEY CONCEPTS / KEYWORDS:
+Mr. Quilter, Middle Classes, Gospel, Apostle
+
+ACTION ITEMS & NEXT STEPS:
+  [ ] Identify the key principles of Mr. Quilter's message.
+  [ ] Assess the impact on middle-class demographics.
+  [ ] Schedule a follow-up briefing on the 'Gospel' findings.
